@@ -1,7 +1,7 @@
 # MadURL – Advanced Terminal URL Analysis Tool
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=MadURL+Terminal+URL+Analyzer" alt="MadURL Banner" />
+  <img src="[https://via.placeholder.com/800x200/000000/FFFFFF?text=MadURL+Terminal+URL+Analyzer](https://raw.githubusercontent.com/Spyd0byte/MadURL/refs/heads/main/MadURL.png)" alt="MadURL Banner" />
 </p>
 
 > **MadURL** is a powerful, feature-rich terminal-based URL analysis tool with glitchy animations and Parrot OS–style aesthetics. Built for **cybersecurity researchers, penetration testers, and security enthusiasts**, it helps analyze suspicious URLs, expand shortened links, and generate detailed security reports.
